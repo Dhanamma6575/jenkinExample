@@ -27,6 +27,7 @@ public class CreateOrganization {
 		driver.get(URL);	
 		System.out.println("organization created");
 		System.out.println("good evening");
+		System.out.println("jenkins example");
 		
 
 	}
